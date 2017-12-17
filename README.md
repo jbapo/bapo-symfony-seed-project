@@ -33,4 +33,10 @@ This project is configured with the following defaults:
   
   * MonologBundle as your log library
 
+## Running end-to-end tests
+
+Run `bin/console server:run` after running `composer update` to run your symfony server, default port is 8000 `http://127.0.0.1:8000`.
+
+
+
 Enjoy!
